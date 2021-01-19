@@ -17,7 +17,7 @@ A 2D single player space shooting game built using C, C++ and Igraphics Library.
 ## Features
 
 * Players can choose a desired spaceship and fight against the enemies with it
-* Players can choose threir avater to play with
+* Players can choose their avater to play with
 * Selected spaceship will be given a health which will change everytime it gets a hit or gets a energy booster. 
 * Scoreboard gets updated everytime it hits an enemy.
 * The game contains 3 levels with different enemies at each levels. 
